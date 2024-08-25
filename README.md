@@ -1,5 +1,5 @@
 # devopenshaire
-## Develop a centralized knowledge base where engineers can contribute articles, tutorials, and best practices from their respective fields.
+## 1 - Develop a centralized knowledge base where engineers can contribute articles, tutorials, and best practices from their respective fields.
 ## 
 <!-- 1. Create an online platform where engineers can share their expertise through webinars, Q&A sessions, and live coding challenges.
 2. Establish a mentorship program pairing experienced engineers with newcomers across disciplines to foster learning and collaboration.
